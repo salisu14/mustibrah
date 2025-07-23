@@ -1,0 +1,11 @@
+body {
+    border-bottom: 3px solid white;
+    margin: auto;
+    background-color: fuchsia;
+    color: #FFF
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
